@@ -1,0 +1,69 @@
+Base path: '/home/jjgomez/Unity/Hub/Editor/2019.3.3f1/Editor/Data', plugins path '/home/jjgomez/Unity/Hub/Editor/2019.3.3f1/Editor/Data/PlaybackEngines'
+Cmd: initializeCompiler
+Cmd: compileComputeKernel
+  api=18 insize=18731 outsize=34002 ok=1
+Cmd: compileComputeKernel
+  api=18 insize=16804 outsize=37849 ok=1
+Cmd: compileComputeKernel
+  api=18 insize=848 outsize=762 ok=1
+Cmd: compileComputeKernel
+  api=18 insize=10288 outsize=12990 ok=1
+Cmd: compileComputeKernel
+  api=18 insize=8630 outsize=26942 ok=1
+Cmd: compileComputeKernel
+  api=18 insize=5032 outsize=17333 ok=1
+Cmd: compileComputeKernel
+  api=18 insize=17994 outsize=40950 ok=1
+Cmd: compileComputeKernel
+  api=18 insize=11176 outsize=48013 ok=1
+Cmd: compileComputeKernel
+  api=18 insize=868 outsize=2182 ok=1
+Cmd: compileComputeKernel
+  api=18 insize=40246 outsize=178423 ok=1
+Cmd: compileComputeKernel
+  api=18 insize=40246 outsize=182933 ok=1
+Cmd: compileComputeKernel
+  api=18 insize=22295 outsize=59333 ok=1
+Cmd: compileComputeKernel
+  api=18 insize=3718 outsize=5610 ok=1
+Cmd: compileComputeKernel
+  api=18 insize=7841 outsize=36997 ok=1
+Cmd: compileComputeKernel
+  api=18 insize=2134 outsize=1256 ok=1
+Cmd: compileComputeKernel
+  api=18 insize=5168 outsize=12717 ok=1
+Cmd: compileComputeKernel
+  api=18 insize=26542 outsize=56201 ok=1
+Cmd: compileComputeKernel
+  api=18 insize=26542 outsize=59505 ok=1
+Cmd: compileComputeKernel
+  api=18 insize=15784 outsize=158385 ok=1
+Cmd: compileComputeKernel
+  api=18 insize=15784 outsize=185154 ok=1
+Cmd: compileComputeKernel
+  api=18 insize=15784 outsize=216332 ok=1
+Cmd: compileComputeKernel
+  api=18 insize=15784 outsize=214658 ok=1
+Cmd: compileComputeKernel
+  api=18 insize=15784 outsize=166282 ok=1
+Cmd: compileComputeKernel
+  api=18 insize=15784 outsize=152530 ok=1
+Cmd: compileComputeKernel
+  api=18 insize=15784 outsize=204375 ok=1
+Cmd: compileComputeKernel
+  api=18 insize=15784 outsize=213774 ok=1
+Cmd: compileComputeKernel
+  api=18 insize=15784 outsize=147246 ok=1
+Cmd: compileComputeKernel
+  api=18 insize=15784 outsize=299681 ok=1
+Cmd: compileComputeKernel
+  api=18 insize=15784 outsize=159195 ok=1
+Cmd: compileComputeKernel
+  api=18 insize=15784 outsize=219955 ok=1
+Cmd: compileComputeKernel
+  api=18 insize=2557 outsize=2501 ok=1
+Cmd: compileComputeKernel
+  api=18 insize=3447 outsize=14751 ok=1
+Unhandled exception: Protocol error - unexpected end of data (did the Editor crash?)
+
+Quitting shader compiler process

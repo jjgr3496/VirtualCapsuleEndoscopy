@@ -1,0 +1,47 @@
+Base path: '/home/jjgomez/Unity/Hub/Editor/2019.3.3f1/Editor/Data', plugins path '/home/jjgomez/Unity/Hub/Editor/2019.3.3f1/Editor/Data/PlaybackEngines'
+Cmd: initializeCompiler
+Cmd: compileComputeKernel
+  api=18 insize=18731 outsize=33049 ok=1
+Cmd: compileComputeKernel
+  api=18 insize=21138 outsize=396646 ok=1
+Cmd: compileComputeKernel
+  api=18 insize=8630 outsize=35357 ok=1
+Cmd: compileComputeKernel
+  api=18 insize=4026 outsize=20562 ok=1
+Cmd: compileComputeKernel
+  api=18 insize=2673 outsize=8066 ok=1
+Cmd: compileComputeKernel
+  api=18 insize=3111 outsize=7819 ok=1
+Cmd: compileComputeKernel
+  api=18 insize=40246 outsize=177805 ok=1
+Cmd: compileComputeKernel
+  api=18 insize=40246 outsize=171154 ok=1
+Cmd: compileComputeKernel
+  api=18 insize=2120 outsize=4201 ok=1
+Cmd: compileComputeKernel
+  api=18 insize=22295 outsize=62477 ok=1
+Cmd: compileComputeKernel
+  api=18 insize=7841 outsize=37768 ok=1
+Cmd: compileComputeKernel
+  api=18 insize=5056 outsize=16334 ok=1
+Cmd: compileComputeKernel
+  api=18 insize=5168 outsize=18710 ok=1
+Cmd: compileComputeKernel
+  api=18 insize=10338 outsize=13466 ok=1
+Cmd: compileComputeKernel
+  api=18 insize=26542 outsize=50847 ok=1
+Cmd: compileComputeKernel
+  api=18 insize=15784 outsize=491031 ok=1
+Cmd: compileComputeKernel
+  api=18 insize=15784 outsize=199939 ok=1
+Cmd: compileComputeKernel
+  api=18 insize=15784 outsize=355403 ok=1
+Cmd: compileComputeKernel
+  api=18 insize=3697 outsize=17363 ok=1
+Cmd: compileComputeKernel
+  api=18 insize=3532 outsize=11902 ok=1
+Cmd: compileComputeKernel
+  api=18 insize=13940 outsize=13463 ok=1
+Unhandled exception: Protocol error - unexpected end of data (did the Editor crash?)
+
+Quitting shader compiler process
